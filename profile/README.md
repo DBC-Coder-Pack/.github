@@ -1,12 +1,12 @@
-# DBC Coder Pack
+# DBC Toolkit
 
-Welcome to the **DBC Coder Pack**!
+Welcome to the **DBC Toolkit**!
 
 This is the place for developers working on creating a modding API for the DBC mod. Our goal is to keep the modding community alive and make it easier for everyone to create and share their own custom addons.
 
 ### What’s this about?
 
-The **DBC Coder Pack** is a collaborative project to help people modify and improve the Dragon Block C mod. Since DBC isn’t actively maintained anymore, we want to build a simple, open framework that lets anyone add custom features and share addons. By creating a modding API, we also aim to reduce the incompatibilities between different addons and make sure they can all play nicely together.
+The **DBC Toolkit** is a collaborative project to help people modify and improve the Dragon Block C mod. Since DBC isn’t actively maintained anymore, we want to build a simple, open framework that lets anyone add custom features and share addons. By creating a modding API, we also aim to reduce the incompatibilities between different addons and make sure they can all play nicely together.
 
 ### Our Goal
 
