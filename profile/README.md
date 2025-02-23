@@ -33,7 +33,7 @@ We want this to be a welcoming and respectful space for everyone. Please follow 
 
 - [API Docs](#)  (TODO)
 - [Community Forum](#) (TODO) 
-- [Discord Server](#)  (TODO)
+- [Discord Server](#)  (TODO) 
 - [Contributing Guidelines](#) (TODO)  
 
 ### Get Involved
